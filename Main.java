@@ -10,10 +10,6 @@ public class Main {
 		sc.close();
 		Fatorial fat = new Fatorial();
 		x=fat.calcFatorial(num);
-		System.out.println("fatorial de "+ num + " é "+ x);
-	}
-      
-    	  
-      
-      
+		System.out.println("fatorial de "+ num + " Ã© "+ x);
+	}     
 }
